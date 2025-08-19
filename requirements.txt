@@ -1,0 +1,17 @@
+fastapi
+aiofiles
+google-generativeai
+uvicorn
+python-multipart
+pandas
+matplotlib
+seaborn
+numpy
+scipy
+scikit-learn
+requests
+beautifulsoup4
+lxml
+openpyxl
+pillow
+plotly
