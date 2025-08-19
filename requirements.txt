@@ -16,3 +16,4 @@ openpyxl
 pillow
 plotly
 black
+python-dotenv
